@@ -75,6 +75,10 @@ a:any-link {
     text-decoration: none;
 }
 
+a:focus {
+    outline: none;
+}
+
 /* || PROFILE-CARD */
 .profile-card {
     width: 327px;
