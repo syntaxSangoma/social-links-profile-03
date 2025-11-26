@@ -2,7 +2,7 @@
 
 A clean, responsive Social Links Profile component built using vanilla HTML and CSS.
 
-![Profile Preview](./images/avatar-jessica.jpeg)
+![Profile Preview](./images/active-states.jpg)
 
 ## Key Features & Benefits
 
@@ -21,7 +21,7 @@ A clean, responsive Social Links Profile component built using vanilla HTML and 
 1. **Clone or download the repository** (or copy the project folder locally):
 
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/syntaxSangoma/social-links-profile-03)
 cd social-links-profile-03
 ```
 
