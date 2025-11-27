@@ -22,6 +22,9 @@ A clean, responsive Social Links Profile component built using vanilla HTML and 
 
 ```bash
 git clone https://github.com/syntaxSangoma/social-links-profile-vanilla-03
+```
+
+```bash
 cd social-links-profile-03
 ```
 
